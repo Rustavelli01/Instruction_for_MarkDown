@@ -77,7 +77,12 @@ git branch -m new_branch_name # переименовать локально ТЕ
 git push origin :old_branch_name new_branch_name # применить переименование в удаленном репозитории
 git branch --unset-upstream # завершить процесс переименования
 
+перемещение по веткам
+```sh
+git checkout <имя ветки>
+```
 
+отображение всех веток
 ```sh
 git branch
 ```
