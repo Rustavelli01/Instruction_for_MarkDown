@@ -1,4 +1,4 @@
 # Добавляем картинку
 ![GitHub](1223.jpeg)
 
-Нужен gitignore
+Нужен .gitignore (c точкой)
