@@ -60,7 +60,7 @@ git branch new_branch
  ```sh
  git branch new_branch 5589877 
 ```
-git branch -f master 5589877  # переместить ветку master на указанный коммит
+``` sh git branch -f master 5589877  # переместить ветку master на указанный коммит
 git branch -f master master~2 # переместить ветку master на 2 коммита назад
 git checkout new_branch    # перейти в указанную ветку
 git checkout -b new_branch # создать новую ветку с указанным именем и перейти в неё
